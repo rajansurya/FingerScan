@@ -26,3 +26,4 @@ Thumbs.db
 # Generated files
 *.apk
 *.aar
+sdk/
